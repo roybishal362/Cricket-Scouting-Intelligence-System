@@ -50,7 +50,18 @@
 > **Context:** The SuperRR Selector Hackathon was organised by Rajasthan Royals — one of the founding IPL franchises — to find data scientists who could build objective, bias-free player scouting systems. Out of 7,599 participants, this solution ranked **4th nationally** as a solo submission.
 
 ---
-
+### 🎬 Official Hackathon Videos by Rajasthan Royals
+ 
+Rajasthan Royals published an official two-part documentary of the full hackathon event — including the finalist presentations. I am featured in these videos as one of the Top finalists.
+ 
+| Part | Link | Description |
+|---|---|---|
+| Part 1 | [▶ Watch on YouTube](https://youtu.be/HuvrKN8uJZ4?si=1e1VP7TPTDH7e77v) | Hackathon overview, problem statement, participant journeys |
+| Part 2 | [▶ Watch on YouTube](https://youtu.be/OJjg-OFGErg?si=MbqqYENRdhHaWBfp) | Finalist presentations including my solution walkthrough |
+ 
+[![Part 1](https://img.shields.io/badge/YouTube-Part%201%20%E2%96%B6-red?style=for-the-badge&logo=youtube)](https://youtu.be/HuvrKN8uJZ4?si=1e1VP7TPTDH7e77v)
+[![Part 2](https://img.shields.io/badge/YouTube-Part%202%20%E2%96%B6-red?style=for-the-badge&logo=youtube)](https://youtu.be/OJjg-OFGErg?si=MbqqYENRdhHaWBfp)
+ 
 ## 🎯 Problem Statement
 
 Rajasthan Royals and Team India selectors face a genuine data problem:
