@@ -10,6 +10,47 @@
 
 ---
 
+## 🏆 Hackathon Achievement
+
+<table>
+  <tr>
+    <td><b>Competition</b></td>
+    <td>SuperRR Selector Hackathon</td>
+  </tr>
+  <tr>
+    <td><b>Organiser</b></td>
+    <td>Rajasthan Royals — IPL Franchise</td>
+  </tr>
+  <tr>
+    <td><b>Platform</b></td>
+    <td>Unstop</td>
+  </tr>
+  <tr>
+    <td><b>Total Participants</b></td>
+    <td>7,599 registered teams</td>
+  </tr>
+  <tr>
+    <td><b>My Rank</b></td>
+    <td>🥇 <b>4th Place Nationally</b></td>
+  </tr>
+  <tr>
+    <td><b>Participant</b></td>
+    <td>Bishal Roy (Solo submission)</td>
+  </tr>
+  <tr>
+    <td><b>Competition Type</b></td>
+    <td>Sports Analytics / AI-ML</td>
+  </tr>
+  <tr>
+    <td><b>Task</b></td>
+    <td>Identify and rank Top 30 uncapped Indian cricketers most likely to receive a national cap</td>
+  </tr>
+</table>
+
+> **Context:** The SuperRR Selector Hackathon was organised by Rajasthan Royals — one of the founding IPL franchises — to find data scientists who could build objective, bias-free player scouting systems. Out of 7,599 participants, this solution ranked **4th nationally** as a solo submission.
+
+---
+
 ## 🎯 Problem Statement
 
 Rajasthan Royals and Team India selectors face a genuine data problem:
@@ -159,7 +200,6 @@ K-Means clustering (k=9, Silhouette Score: 0.329) on batting and bowling metrics
 
 ---
 
-
 ## ⏰ Capping Window Predictions
 
 Players are assigned to actionable capping timelines:
@@ -195,8 +235,6 @@ Players are assigned to actionable capping timelines:
 | Statistical Analysis | EWMA trajectory modelling, Silhouette scoring, ROC-AUC validation |
 
 ---
-
-
 
 
 > **Note:** The competition dataset (`player_features_complete.parquet`, `ball_by_ball_processed.parquet`) is proprietary to the Rajasthan Royals / Unstop hackathon and cannot be redistributed. The pipeline code and methodology are fully open.
